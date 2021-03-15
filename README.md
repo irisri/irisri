@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iris
-- 👀 As ypu can see from my GitHub I'm familiar with Vue, React, Angular, Django.
+- 👀 As you can see from my GitHub I'm familiar with Vue, React, Angular, Django.
 - 🌱 I’m currently learning Django, Docker and working on React
 - 💞️ I’m looking for a my first full stack position
 - 🙉 
