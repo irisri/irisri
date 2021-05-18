@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Iris
 - 👀 As you can see from my GitHub I'm familiar with Vue, React, Angular, Django.
-- 🌱 I’m currently learning Django, Docker and working on React
-- 💞️ I’m looking for a my first position
+- 🌱 I’m currently working on React and Docker as a web developer, building a web game for latete pe
+- 🤩 https://www.codaproject.co.il/project/1857/
+- 💞️ I’m looking for a web developer position
 - 🙉 
 
 <!---
